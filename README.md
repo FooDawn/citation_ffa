@@ -21,3 +21,5 @@ Za primer navajamo nekaj različnih načinov citiranja:
 - Navajanje člankov
 - Navajanje patentov
 - Navajanje internetnih virov z dodato (dostopno: <datum>) na koncu
+
+Za prisotne napake naredite Issue ali pa mi pišite, če me poznate. 
