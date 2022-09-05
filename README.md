@@ -1,4 +1,5 @@
 # Citation standard FFA
+***Če uporabljate Citation Style Language (CSL) za citiranje. Recimo Zotero to uporablja.***
 
 Pri pisanju diplomske/magistrske naloge študent uporablja tri vrste virov: objavljene članke, knjige in drugo dostopno literaturo. Navedena naj bo samo tista literatura, ki jo je študent prebral, razume njeno sporočilo in je objavljena dognanja uporabil pri pisanju uvoda, pri sestavljanju delovnega načrta, pri navajanju metod in pri vrednotenju rezultatov. Navedeni viri literature so v tem poglavju v enakem zaporedju, kot se pojavljajo med besedilom naloge. Študent navaja le najpotrebnejše in preverjene vire kot podporo njegovim navedbam. Smiselno je, da to poglavje sestavlja hkrati s pisanjem uvoda in drugih poglavij diplomske naloge.
 
